@@ -19,5 +19,5 @@ This project is built using
 For this project to run successfully ensure python and and pyspark is intalled
 ```
     To install python - brew install python for mac users
-    To install pyspark - pip3 install pyspark/pip3 install pyspark
+    To install pyspark - pip3 install pyspark/pip install pyspark
 ```
