@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## Introduction
-This project is to build an ML model thats able to predict Ford Car prices using Multiple LinearRegression.
+This project is to build an ML model thats able to predict Ford Car prices using Multiple LinearRegression. Using the R2 metric, model performance is measured.
 
 
 ## Technologies
